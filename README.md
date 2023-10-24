@@ -1,1 +1,1 @@
-# crack_the_pin
+Solution to the puzzle https://www.codewars.com/kata/5efae11e2d12df00331f91a6?authuser=0
